@@ -4,4 +4,4 @@ val: images/val  # val images (relative to 'path') 16 images
 
 # Classes
 names:
-  1: staff shirt
+  0: staff shirt
